@@ -42,4 +42,7 @@ Data Nakes Rumah Sakit :
 - Umur Nakes
 - Alamat Nakes
 - Jenis Kelamin Nakes
-- Bidang Nakes (Bidang/Pekerjaan dari Tenaga kesehatan di Rumah Sakit) 
+- Bidang Nakes (Bidang/Pekerjaan dari Tenaga kesehatan di Rumah Sakit)
+
+
+BEST REGARDS , IMAM HIDAYAT.
