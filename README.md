@@ -24,7 +24,7 @@ Stakeholders
  
 Limitations
 Projek aplikasi ini memiliki beberapa keterbatasan:
-1.  Program ini tidak bisa di otomatis dan tetap memerlukan manual update.
+- Program ini tidak bisa di otomatis dan tetap memerlukan manual update.
  
 Data Summary
 The data used in this project includes:
@@ -33,7 +33,7 @@ Data Pasien Rumah Sakit :
 - Nama Pasien
 - Umur Pasien
 - Alamat Pasien
-- jenis Kelamin Pasien
+- Jenis Kelamin Pasien
 - Jenis Penyakit Pasien
 
 Data Nakes Rumah Sakit :
@@ -41,5 +41,5 @@ Data Nakes Rumah Sakit :
 - Nama Nakes
 - Umur Nakes
 - Alamat Nakes
-- jenis Kelamin Nakes
+- Jenis Kelamin Nakes
 - Bidang Nakes (Bidang/Pekerjaan dari Tenaga kesehatan di Rumah Sakit) 
