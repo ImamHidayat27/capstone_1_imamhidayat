@@ -2,12 +2,12 @@
 Program CRUD Data Pasien & Data Nakes Rumah Sakit
 Context
  
-Ini adalah projek aplikasi CRUD sederhana yang terkait tentang data di rumah sakit menggunakan Python. Program CRUD ini adalah (Create,Read,Update dan Delete) Program yang dapat membantu user untuk menambahkan data pasien & data nakes , melihat data pasien & data nakes , mengubah data pasien & data nakes dan menghapus data pasien & data nakes di rumah sakit. Tujuan program ini untuk memudahkan user dalam mengolah data pasien & data Nakes di rumah sakit.
+Ini adalah projek aplikasi CRUD sederhana yang terkait tentang data di rumah sakit menggunakan Python. Program CRUD ini adalah (Create,Read,Update dan Delete) Program yang dapat membantu user untuk menambahkan data pasien & data nakes , melihat data pasien & data nakes , mengubah data pasien & data nakes dan menghapus data pasien & data nakes di rumah sakit. Tujuan program ini untuk memudahkan user dalam mengolah data pasien & data nakes di rumah sakit.
  
 Business Tasks
 Key Features
 - Menampilkan Seluruh Data Pasien & Data Nakes
-- Menampilkan Data Pasien & Data nakes tertentu dengan kata kunci ID
+- Menampilkan Data Pasien & Data Nakes tertentu dengan kata kunci ID
 - Menambahkan Data Pasien & Data Nakes
 - Mengupdate Kolom Tertentu Data Pasien & Data Nakes Berdasarkan kata kunci kolom yang dipilih
 - Menghapus Data Pasien & Data Nakes  
