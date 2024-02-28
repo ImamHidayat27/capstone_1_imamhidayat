@@ -227,8 +227,8 @@ def update_data_pasien():
                         baca_nakes()
                         break
                     if show_2=='5':
-                        jenis_penyakit_pasien_update =  ('jenis penyakit')
-                        data_nakes[id_update][jenis_penyakit_pasien_update] = input('Jenis penyakit yang akan disimpan : ')
+                        bidang_nakes_update =  ('jenis penyakit')
+                        data_nakes[id_update][bidang_nakes_update] = input('Bidang nakes yang akan disimpan : ')
                         baca_nakes()
                         break
             
