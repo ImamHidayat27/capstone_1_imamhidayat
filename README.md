@@ -45,4 +45,4 @@ Data Nakes Rumah Sakit :
 - Bidang Nakes (Bidang/Pekerjaan dari Tenaga kesehatan di Rumah Sakit)
 
 
-BEST REGARDS , IMAM HIDAYAT.
+
